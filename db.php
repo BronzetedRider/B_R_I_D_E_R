@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db   = 'users_db';
+$db   = 'userdb';
 $user = 'bronzeted_rider';       // Updated username
 $pass = 'Brider2007';       // Updated password
 $charset = 'utf8mb4';
