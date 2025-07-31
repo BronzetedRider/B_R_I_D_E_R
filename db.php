@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost';
+$host = 'db4free.net';
 $db = 'userdb';
 $user = 'bronzeted_rider';       // Updated username
 $pass = 'Brider2007';       // Updated password
